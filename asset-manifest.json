@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/responsive-flix/static/css/main.af3bda44.css",
+    "main.js": "/responsive-flix/static/js/main.1172fae8.js",
+    "static/media/user.svg": "/responsive-flix/static/media/user.058682474ff6f304264ebd93d9338eea.svg",
+    "index.html": "/responsive-flix/index.html",
+    "main.af3bda44.css.map": "/responsive-flix/static/css/main.af3bda44.css.map",
+    "main.1172fae8.js.map": "/responsive-flix/static/js/main.1172fae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af3bda44.css",
+    "static/js/main.1172fae8.js"
+  ]
+}
